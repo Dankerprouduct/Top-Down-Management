@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Top_Down_Management", "Top Down Management\Top_Down_Management\Top_Down_Management.csproj", "{B278F8B3-2BD4-4772-AA1D-6B9F67A8D7ED}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Top_Down_ManagementContent", "Top Down Management\Top_Down_ManagementContent\Top_Down_ManagementContent.contentproj", "{B660FB8C-9830-44B9-A4AB-4FC373C72FF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B278F8B3-2BD4-4772-AA1D-6B9F67A8D7ED}.Debug|x86.ActiveCfg = Debug|x86
+		{B278F8B3-2BD4-4772-AA1D-6B9F67A8D7ED}.Debug|x86.Build.0 = Debug|x86
+		{B278F8B3-2BD4-4772-AA1D-6B9F67A8D7ED}.Release|x86.ActiveCfg = Release|x86
+		{B278F8B3-2BD4-4772-AA1D-6B9F67A8D7ED}.Release|x86.Build.0 = Release|x86
+		{B660FB8C-9830-44B9-A4AB-4FC373C72FF3}.Debug|x86.ActiveCfg = Debug|x86
+		{B660FB8C-9830-44B9-A4AB-4FC373C72FF3}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
